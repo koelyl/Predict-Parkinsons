@@ -28,7 +28,6 @@ Predicting stage of Parkinson's disease from voice measurements.
 #### 7. Digital cloudwatching: From substance to senses
 
 <br>
-<br>
 *References*: 
 <br>
 A Tsanas, MA Little, PE McSharry, LO Ramig (2009) 
