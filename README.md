@@ -1,8 +1,8 @@
 # Predict-Parkinsons
 Predicting stage of Parkinson's disease from voice measurements.
 
-## Table of Contents
-### 1. Introduction
+### Table of Contents
+#### 1. Introduction
   * Features 
     - Traditional measures
     - Complex dynamical systems-based measures
